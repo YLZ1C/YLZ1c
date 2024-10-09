@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas Ao Meu Perfil 💙
+meu nome é Yasmin Zanetti
 
-<!--
-**YLZ1C/YLZ1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no Alura.
+- Estou desenvolvendo na linguagem da Javascript
+- Ultilizo esse espaço para falar sobre meus projetos
 
-Here are some ideas to get you started:
+### Voce entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+00001104866584sp@al.educacao.sp.gov.br
+
+@YLZ1c
